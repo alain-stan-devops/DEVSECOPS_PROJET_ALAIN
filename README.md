@@ -1,0 +1,2 @@
+# DEVSECOPS_PROJET_ALAIN
+Create devsecops for STREAMIN APP example NETFLIX
